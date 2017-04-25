@@ -1,6 +1,6 @@
 # npmdoc-cache-manager
 
-#### api documentation for  [cache-manager (v2.4.0)](https://github.com/BryanDonovan/node-cache-manager#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cache-manager.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cache-manager) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cache-manager.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cache-manager)
+#### basic api documentation for  [cache-manager (v2.4.0)](https://github.com/BryanDonovan/node-cache-manager#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cache-manager.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cache-manager) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cache-manager.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cache-manager)
 
 #### Cache module for Node.js
 
@@ -73,7 +73,8 @@
     "scripts": {
         "test": "make"
     },
-    "version": "2.4.0"
+    "version": "2.4.0",
+    "bin": {}
 }
 ```
 
